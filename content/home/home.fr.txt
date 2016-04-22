@@ -1,0 +1,14 @@
+Title: Home
+
+----
+
+Text: 
+
+Bienvenue sur le site de Rhizome. 
+Nous montons des projets vraiment super cools. 
+
+## C'est parti !
+
+**Des questions ?**
+
+Contactez-nous !

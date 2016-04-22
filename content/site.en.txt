@@ -1,0 +1,44 @@
+Title: Rhizome
+
+----
+
+Author: Arthur Schmitt
+
+----
+
+Description: Creative ecoysytem
+
+----
+
+Keywords: inovation,ecosystem
+
+----
+
+Copyright: © (date: Year) Rhizome
+
+----
+
+Analytics: UA-XXXXX-X
+
+----
+
+Fb: http://facebook.com
+
+----
+
+Tw: http://twitter.com
+
+----
+
+Ln: http://linkedin.com
+
+----
+
+Mail: mail@mail.com
+
+----
+
+Address: 
+
+309 rue St Nicolas
+H2V 1C7 Montréal

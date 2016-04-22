@@ -1,0 +1,13 @@
+Title: Home
+
+----
+
+Text: 
+
+Welcome to Rhizome's website. We make awesome projects. 
+
+## Get started
+
+**Have fun with Kirby!**
+
+Contact us
