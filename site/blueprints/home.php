@@ -7,6 +7,10 @@ fields:
     label: Title
     type:  text
   text:
-    label: Text
+    label: Top text
     type:  textarea
     size:  large
+  blurb: 
+  	label: Blurb on image
+  	type: textarea
+  	size: large

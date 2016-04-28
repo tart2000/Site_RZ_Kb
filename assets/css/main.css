@@ -13,9 +13,19 @@ a:hover {
 .mt {
   margin-top: 45px;
 }
+.mb {
+  margin-bottom: 45px;
+}
+.center {
+  text-align: center;
+}
 /* Navbar */
 .navbar-brand>img {
 	max-height: 100%;
+}
+.navbar-brand {
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 .navbar-collapse {
   z-index: 10;
@@ -151,8 +161,39 @@ a:hover {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
-
-
+#blurb {
+  background-size: cover;
+  background-position: center center;
+}
+.blurb-text {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 25px;
+  background-color: rgba(255,255,255,0.8);
+  font-size: 16px;
+}
+#contac {
+  background-color: #e7e7e7;
+  padding-top: 25px;
+  padding-bottom: 35px;
+}
+.btn-lg {
+  border-radius: 25px;
+}
+.btn-theme {
+  background-color: transparent;
+  border: 3px black solid;
+}
+.btn-theme:hover {
+  background-color: black;
+  color: white;
+  border-color: black;
+}
+.footer {
+  padding-bottom: 40px;
+  padding-top: 40px;
+  border-top: #e7e7e7 solid 1px;
+}
 .footer .fa-circle {
   color: black;
 }

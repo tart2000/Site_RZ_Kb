@@ -24,8 +24,32 @@
 
 <div id="clearfix"></div>
 
+<div id="blurb" style="background-image:url('<?php echo $page->images()->first()->url() ?>')">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-offset-7 col-sm-4 col-xs-8 col-xs-offset-2 blurb-text">
+				<?php echo $page->blurb()->kirbytext() ?>
+			</div>
+		</div>
+	</div>
+</div>
+
+
 <div class="container" role="main">
-<?php snippet('projects') ?>
+	<?php snippet('projects') ?>
 </div> <!-- // container -->
+
+<!-- contact -->
+<div id="contac">
+	<div class="container">
+		<div class="row">
+			<div class="center col-sm-8 col-sm-offset-2">
+				<h3><?php echo page('contact')->cta() ?></h3>
+				<a class="btn btn-default btn-lg btn-theme" href="#" role="button"><?php echo l::get('contact') ?></a>
+			</div>
+		</div>
+	</div>
+</div>
+
 
 <?php snippet('footer') ?>

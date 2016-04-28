@@ -2,7 +2,7 @@ Title: Contact
 
 ----
 
-Text:
+Text: 
 
 ## Get in touch
 
@@ -17,3 +17,7 @@ Text:
 - Follow Bastian on Twitter (twitter: @bastianallgeier)
 - Follow Nico on Twitter (twitter: @distantnative)
 - Follow Sascha on Twitter (twitter: @sashtown)
+
+----
+
+Cta: Prêt à faire le grand saut ?
