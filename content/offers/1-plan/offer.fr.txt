@@ -1,4 +1,4 @@
-Title: Planifier
+Title: Concevoir
 
 ----
 
@@ -19,3 +19,28 @@ In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum fe
 ----
 
 Baseline: 
+
+----
+
+Elements: 
+
+- 
+  title: Offre
+  fa: gift
+  baseline: B2B ou B2C
+  examples: Produit / service
+- 
+  title: Expérience client
+  fa: users
+  baseline: Parcours client et expérience
+  examples: 'Interface avec marque / offre - Supports numériques / espaces physiques'
+- 
+  title: Marque
+  fa: flag
+  baseline: Positionnement et image
+  examples: 'Création / gestion - Identité visuelle et communication'
+- 
+  title: Process
+  fa: cogs
+  baseline: 'Transformation & évolution'
+  examples: 'Productivité & efficacité - RH / compétences - Changement de culture'

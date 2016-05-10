@@ -4,14 +4,11 @@ Title: Home
 
 Text: 
 
-Bienvenue sur le site de Rhizome. 
-Nous montons des projets vraiment super cools. 
+**RHIZOME /ˈrīˌzōm/**
 
-## C'est parti !
+*"Réseau vivant de racines qui développe de manière continue des pousses latérales générant d’autres réseaux ainsi que des racines qui émergent de la terre de manière inattendue."*
 
-**Des questions ?**
-
-(link: # text: Contactez-nous !)
+Nous sommes une équipe multidisciplinaires pratiquant l’innovation par rhizome.
 
 ----
 

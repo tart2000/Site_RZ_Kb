@@ -31,12 +31,12 @@ a:hover {
   z-index: 10;
 }
 .navbar-right {
-  background-color: white;
+  background-color: transparent;
 }
 .navbar {
   z-index: 10;
 	margin-bottom: 0px;
-	background-color: white;
+	background-color: transparent;
 	border: none;
 	height: 75px;
 	padding-top: 10px;
@@ -45,12 +45,23 @@ a:hover {
 	text-transform: uppercase;
 }
 .navbar-default .navbar-nav>.active>a {
-	background-color: white;
+	background-color: transparent;
 	color: black;
 	border-bottom: black solid 2px;
 }
 .nav li:hover {
 	background-color: #e7e7e7;
+}
+
+/* trick for logo change on hover */
+.navbar-brand img:last-child {
+  display:none;
+}
+.navbar-brand:hover img:first-child{
+  display:none;
+}
+.navbar-brand:hover img:last-child{
+  display:inline-block;
 }
 
 /* Nav */
@@ -89,19 +100,20 @@ a:hover {
     left: 0;
     width: 100%;
     z-index: 2;
-    margin-top: 50px;
+    margin-top: 120px;
     margin-bottom: 120px;
 }
-.overlay .container li {
+.overlay .container li, .offer {
 	list-style: none;
-	font-size: 100px;
+	font-size: 80px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 900;
 	text-transform: uppercase;
 }
 @media (max-width: 768px) {
 	.overlay .container li {
-		font-size: 60px;
+		font-size: 45px;
+    margin-left: -50px;
 	}
 }
 .overlay .container li a {
@@ -189,6 +201,20 @@ a:hover {
   color: white;
   border-color: black;
 }
+.main {
+  padding-top: 100px;
+}
+.presentation {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.presentation a {
+  color: black; 
+}
+
+
 .footer {
   padding-bottom: 40px;
   padding-top: 40px;

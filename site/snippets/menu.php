@@ -24,6 +24,15 @@
 	    </li>
 	    <?php endforeach ?>
 
+	    <!-- calling environment pages -->
+	    <?php foreach (page('environments')->children() as $en): ?>
+	    	<li class="<?php e($en->isOpen(), ' active') ?>">
+	    		<a href="<?php echo $en->url() ?>">
+	    			<?php echo $en->title() ?>
+	    		</a>
+	    	</li>
+		<?php endforeach ?>
+
 	    <li class="separator">
     		<a>|</a>
     	</li>

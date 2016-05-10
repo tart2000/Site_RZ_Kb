@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-	<div class="container" role="main">
+	<div class="container main" role="main">
 		<h1><?php echo $page->title()->html() ?></h1>
 		
 		<ul class="list-group">

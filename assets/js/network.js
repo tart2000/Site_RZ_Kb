@@ -239,6 +239,6 @@ $(document).ready(function () {
 
 
     container.click(function (e) {
-        network.add_node(e.clientX, e.clientY - 102);
+        network.add_node(e.clientX, e.clientY);
     });
 });

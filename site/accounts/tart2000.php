@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - contact
-  - home
-  - projects/project-c
-  - projects/project-b
-  - projects/project-a
+  - offers/plan
+  - environments/ecosystemes
+  - environments/territory
+  - environments/entreprises
+  - offers/learn
