@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-	<div class="container main" role="main">
+	<div class="container main mb" role="main">
 		<span class="offer"><?php echo $page->title()->html() ?></span>
 
 
