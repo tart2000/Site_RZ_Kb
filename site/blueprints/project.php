@@ -19,6 +19,17 @@ fields:
     type: checkboxes
     options: query
     query:
-      page: /
+      page: /offers
       template: offer
+    columns: 1
+    width: 1/2
+  environment: 
+    label: Environment
+    type: checkboxes
+    options: query
+    query:
+      page: /environments
+      template: environment
+    columns: 1
+    width: 1/2
 

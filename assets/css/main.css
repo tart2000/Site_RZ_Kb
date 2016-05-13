@@ -7,6 +7,12 @@
 html, body {
 	height: 100%;
 }
+.text p, .text li {
+  font-size: 17px;
+}
+.text img {
+  max-width: 100%;
+}
 a:hover {
 	text-decoration: none;
 }
@@ -18,6 +24,12 @@ a:hover {
 }
 .center {
   text-align: center;
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
 }
 /* Navbar */
 .navbar-brand>img {
@@ -111,10 +123,13 @@ a:hover {
 	text-transform: uppercase;
 }
 @media (max-width: 768px) {
-	.overlay .container li {
+	.overlay .container li  {
 		font-size: 45px;
     margin-left: -50px;
 	}
+  .offer {
+    font-size: 45px;
+  }
 }
 .overlay .container li a {
 	color: black;
@@ -213,8 +228,31 @@ a:hover {
 .presentation a {
   color: black; 
 }
-
-
+.fa-icon {
+  font-size: 2.5em; 
+  margin-top: 15px;
+  vertical-align: top;
+  float: right;
+}
+.sep {
+  width: 50px;
+  height: 3px;
+  background-color: black; 
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+.offer-items:nth-child(even) {
+  position: relative;
+  top: 50px;
+  min-height: 120px;
+}
+@media (max-width: 768px) {
+  .offer-items:nth-child(even) {
+    position: relative;
+    top: 0px;
+    min-height: 120px;
+  }
+}
 .footer {
   padding-bottom: 40px;
   padding-top: 40px;

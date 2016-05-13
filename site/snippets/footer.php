@@ -45,6 +45,7 @@
 					</div>
 					<div class="col-sm-6 text-right">
 						<?php e($site->address() !='',$site->address()->kirbytext()) ?>
+						<p><a href="<?php echo page('contact')->url() ?>">Contact</a></p>
 					</div>
 				</div>
  	 		</div>

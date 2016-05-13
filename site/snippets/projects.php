@@ -16,6 +16,8 @@
 	<?php endif ?>
 	
 	<?php foreach($prjcts as $project): ?>
-		<?php echo snippet('project-item', array('project'=>$project)) ?>
+		<div class="col-sm-4">
+			<?php echo snippet('project-item', array('project'=>$project)) ?>
+		</div>
 	<?php endforeach ?>
 </div>
