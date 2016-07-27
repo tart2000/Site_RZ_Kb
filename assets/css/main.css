@@ -13,6 +13,9 @@ html, body {
 a:hover {
 	text-decoration: none;
 }
+a:focus {
+  text-decoration: none;
+}
 .mt {
   margin-top: 45px;
 }
@@ -104,8 +107,7 @@ a:hover {
 
 #network {
     position: relative;
-    /* background: #f1583f; */
-    min-height: 80%;
+    min-height: 100%;
 }
 #network .overlay {
     position: absolute;
@@ -125,11 +127,14 @@ a:hover {
 }
 @media (max-width: 768px) {
 	.overlay .container li  {
-		font-size: 45px;
+		font-size: 35px;
     margin-left: -50px;
 	}
   .offer {
     font-size: 45px;
+  }
+  .hp-text {
+
   }
 }
 .overlay .container li a {
@@ -280,7 +285,11 @@ a:hover {
 .footer .fa-circle {
   color: black;
 }
-
+#footer-temp {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
 
 
 
