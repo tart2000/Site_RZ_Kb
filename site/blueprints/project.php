@@ -8,9 +8,18 @@ fields:
   title:
     label: Title
     type:  text
-  year:
-    label: Year
-    type:  text
+  pro_image:
+    label: Image du projet
+    type: selector 
+    mode: single
+    types: 
+      - image
+  logo_image:
+    label: Logo du projet
+    type: selector
+    mode: single
+    types: 
+      - image
   text:
     label: Text
     type:  textarea

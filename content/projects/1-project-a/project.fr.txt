@@ -24,3 +24,11 @@ Offer: plan, make
 ----
 
 Environment: entreprises
+
+----
+
+Pro-image: the-sea.jpg
+
+----
+
+Logo-image: logo-_esplanade1-e1444082638451.jpg

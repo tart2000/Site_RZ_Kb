@@ -7,5 +7,7 @@ l::set('contact', 'Contactez-nous');
 l::set('linked', 'Projets liés');
 l::set('previous', 'Précédent');
 l::set('next','Suivant');
+l::set('name','Nom');
+l::set('mail','Courriel');
 
 ?>
