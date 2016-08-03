@@ -39,6 +39,10 @@
 	<?php snippet('projects') ?>
 </div> <!-- // container -->
 
+<div class="container">
+	<?php snippet('medium') ?>
+</div>
+
 <!-- contact -->
 <div id="contac">
 	<div class="container">
