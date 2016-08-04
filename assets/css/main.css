@@ -4,8 +4,19 @@
    Author's custom styles
    ========================================================================== */
 
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One&subset=latin,latin-ext);
+
 html, body {
 	height: 100%;
+}
+h2 {
+  font-family: 'Fjalla One', sans-serif;
+}
+h3 {
+  font-size: 20px;
+}
+h3 a {
+  color: black;
 }
 .text p, .text li {
   font-size: 17px;
@@ -260,13 +271,13 @@ a:hover {
   height: 250px;
   background-size: cover;
   text-align: center;
-  padding: 40px;
 }
 .pro-logo {
   opacity: 0;
   max-height: 100%;
   max-width: 100%;
   transition: opacity 0.5s ease;
+  padding: 40px;
 }
 .pro-logo:hover {
   opacity: 0.9;

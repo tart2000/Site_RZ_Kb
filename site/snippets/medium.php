@@ -52,6 +52,9 @@ class SimplePie_Autoloader
 		include $filename;
 	}
 }
+?>
+
+<?php 
 
 	$feed = new SimplePie();
 	$feed->set_feed_url('https://salon.thefamily.co/feed');
@@ -59,23 +62,30 @@ class SimplePie_Autoloader
 	$feed->handle_content_type();
 ?>
 
-<?php $limit = 3 ?>
-<h1><?php echo $feed->get_title() ?></h1>
-<div class="row">
-	<?php foreach ($feed->get_items() as $item) : ?>
-		<?php if ($limit != 0) : ?>
-			<div class="col-sm-4">
-				
-				<?php 
-					require_once('library/simple_html_dom.php');
-					$htmlDOM = new simple_html_dom();
-					$htmlDOM->load($item->get_description());
-					$image = $htmlDOM->find('img', 0); 
-				?>
-				<?php echo $image ?>
-				<h2><a href="<?php echo $item->get_permalink(); ?>"><?php echo $item->get_title(); ?></a></h2>
-			</div>
-			<?php $limit-- ?>
-		<?php endif ?>
-	<?php endforeach ?>
-</div>
+	<?php $limit = 3 ?>
+
+
+	<h2>Lectures</h2>
+	<div class="row mb">
+		<?php foreach ($feed->get_items() as $item) : ?>
+			<?php if ($limit != 0) : ?>
+				<div class="col-sm-4">
+					
+					<?php 
+						require_once('library/simple_html_dom.php');
+						$htmlDOM = new simple_html_dom();
+						$htmlDOM->load($item->get_description());
+						$image = $htmlDOM->find('img', 0); 
+					?>
+					<a href="<?php echo $item->get_permalink(); ?>" target="_blank">
+						<div class="project-img" style="background-image:url('<?php echo $image->src ?>')">
+						</div>
+						<h3><?php echo $item->get_title(); ?></h3>
+					</a>
+				</div>
+				<?php $limit-- ?>
+			<?php endif ?>
+		<?php endforeach ?>
+	</div>
+
+

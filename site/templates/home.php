@@ -19,7 +19,6 @@
 			</div>
 		</div>
 	</div>
-	<canvas id="canvas"></canvas>
 </div>
 
 <div id="clearfix"></div>
