@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - home
-  - contact
-  - projects/project-a
-  - projects
-  - projects/project-c
+  - offers/learn
+  - offers/make
+  - offers/plan
+  - environments/ecosystemes

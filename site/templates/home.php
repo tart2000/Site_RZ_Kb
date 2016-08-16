@@ -33,6 +33,10 @@
 	</div>
 </div>
 
+<div class="container blurb-text2">
+	<?php echo $page->text2()->kirbytext() ?>
+</div>
+
 
 <div class="container" role="main">
 	<?php snippet('projects') ?>

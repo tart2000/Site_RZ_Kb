@@ -2,4 +2,12 @@ Title: Entreprises
 
 ----
 
-Text: Lorem ipsum dolor sit amet, sed clita invidunt legendos et, his oratio periculis neglegentur in, graeci mediocrem consectetuer ea has. Veniam blandit his ex, maluisset abhorreant expetendis mel cu. Te odio civibus intellegam vix. Animal ancillae volutpat vis in, mea ei legere volumus persequeris. Ei enim libris hendrerit pro, sit ferri illud interesset an, per ad nisl omittam democritum. Et vel augue solet.
+Text: 
+
+Les défis auxquels les entreprises doivent faire face n’ont jamais été aussi grands. Leur existence même est menacée de l’extérieur (évolution des utilisateurs, arrivée de nouveaux acteurs, avancées technologiques de plus en plus rapides, érosion de la chaîne de valeur) et de l’intérieur (désengagement des employés, attraction et rétention de talents de plus en plus difficiles). Cependant, de nouveaux modèles, issus du monde numérique, émergent et prospèrent (mouvement maker, open-source, consommation collaborative, innovation sociale, etc.), offrant un aperçu de ce que pourront être les organisations de demain. Rhizome travaille au quotidien, main dans la main, avec ces acteurs émergents, afin de pouvoir en diffuser les bonnes pratiques dans les organisations. Ces bonnes pratiques vont plus loin que l’achat d’une imprimante 3D ou de l’ouverture d’un ‘lab’ : elles passent par une évolution culturelle. Et la manière de les mettre en pratique est propre à chaque organisation : impossible de passer par une méthode standardisée. 
+
+En pratique, Rhizome aide les entreprises à :
+
+- Mieux définir leur mission et leur proposition de valeur 
+- Profiter de la puissance de penser et de faire des individus avec lesquels elle interagit 
+- Anticiper les changements en cours et en profiter

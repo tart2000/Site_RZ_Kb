@@ -65,7 +65,7 @@ class SimplePie_Autoloader
 	<?php $limit = 3 ?>
 
 
-	<h2>Lectures</h2>
+	<h2>Articles <a href="#" target="_blank"><i class="fa fa-external-link"></i></a></h2>
 	<div class="row mb">
 		<?php foreach ($feed->get_items() as $item) : ?>
 			<?php if ($limit != 0) : ?>

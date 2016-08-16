@@ -2,20 +2,12 @@ Title: Faire
 
 ----
 
-Text: 
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
-
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
-
-
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+Text: Rhizome accompagne le développement de projets ambitieux, de l’idée à la mise en marché, en passant par la preuve de concept. Mais à chaque fois, il en s’agit pas de faire ‘à la place’, ou de ‘dire comment faire’ mais bien de ‘faire avec’. Le coeur de notre expertise est la mise en action des membres de l’organisation, à travers des incubateurs d’idée, des programmes d’intrapreneuriat ou des laboratoires de création. Un processus de conception va généralement inclure des séances de création participative impliquant toutes les parties prenantes du projet (collaborateurs / clients / utilisateurs / public) ainsi qu’un certain nombre de boucles de rétroaction (feedback).
 
 ----
 
-Baseline: 
+Baseline: La production a été souvent reléguée au second plan, à la l’issue d’un processus de conception en définissant le périmètre précis. Cependant, l’accélération de l’évolution des technologies demande (et permet) une approche plus pratique. La capacité à prototyper et à expérimenter est devenu un facteur clé de différenciation pour les organisations. Mais cela passe aussi par un changement de culture : préférer un prototype à une présentation Powerpoint. De plus, nous sommes convaincus que ‘faire’ aide à penser et qu’il est nécessaire de ‘réconcilier la tête et la main’, comme le dit Richard Sennett.
+
+----
+
+Elements: 

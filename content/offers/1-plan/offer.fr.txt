@@ -1,19 +1,15 @@
-Title: Concevoir
+Title: Planifier
 
 ----
 
 Text: 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
-
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+Rhizome vous aide à toutes les étapes précédant la mise en action. Notre équipe de recherche est en mesure de produire rapidement des rapports de veille, un état des lieux, une cartographie des tendances ou des recommandations stratégiques. 
+Nous pouvons aussi mettre en place des interventions de co-création pour vous aider à élaborer une vision commune au sein d’une équipe.
 
 ----
 
-Baseline: 
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+Baseline: Rien n’est plus important que d’avoir une mission claire (purpose). À partir de cette mission peut se décliner une stratégie, qui prendra ensuite la forme d’une planification opérationnelle. La mission offre une vision à long terme alors que la planification présente des actions à réaliser à court terme. Pour être en mesure de développer des projets ambitieux dans un monde de plus en plus complexe et changeant, cette planification doit se faire de la manière la plus agile possible. Cela nécessite aussi de suivre en permanence les évolutions du secteur pour y être réactifs.
 
 ----
 

@@ -12,8 +12,33 @@ Nous sommes une équipe multidisciplinaires pratiquant l’innovation par rhizom
 
 ----
 
-Blurb: Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero.
+Blurb: 
+
+Caractéristiques du Rhizome : 
+
+- Plusieurs éléments connectés entre eux (réseau)  
+- Pas de centre (communication décentralisée) 
+- Croissance horizontale (pas de hiérarchie) 
+- Auto-organisation à partir de règles élémentaires simples 
+- Comportements émergents 
+- Résilience
 
 ----
 
 Medium: https://salon.thefamily.co/feed
+
+----
+
+Text2: 
+
+Internet a bousculé tous les aspects de nos vies, de la manière dont on communique, consomme, apprend, rencontre, ou travaille. La révolution numérique qui y est associée, inquiète autant qu’elle fait rêver : elle a défait des empires et en a fait émerger de nouveaux.
+Avec elle apparaissent de nouvelles pratiques, attentes et exigences en dehors des organisations (public, utilisateurs, collaborateurs), mais aussi en leur sein (employés, management). Ces transformations viennent s’ajouter encore aux pressions déjà subies par les organisations (environnementales, sociales, économiques). La plupart des règles qui régissaient notre société sont en train d’être ré-écrites. Une chose est claire : c’est un aller simple. Mais dans quelle direction ? Rhizome cherche à outiller les organisations, et les individus qui la composent, pour cultiver l’agilité et prospérer dans le monde de demain.
+
+Nous pensons que les caractéristiques des organisations qui réussissent sont : 
+
+- Créativité 
+- Collaboration 
+- Diversité 
+- Autonomisation et engagement 
+- Agilité
+- Expérimentation

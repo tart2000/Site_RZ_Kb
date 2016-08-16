@@ -14,3 +14,7 @@ fields:
   	label: Blurb on image
   	type: textarea
   	size: large
+  text2: 
+    label: Blurb sous image
+    type: textarea
+    size: large

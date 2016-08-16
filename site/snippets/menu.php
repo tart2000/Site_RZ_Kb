@@ -1,4 +1,4 @@
-<div id="navbar" class="collapse navbar-collapse">
+<div id="navbar" class="collapse navbar-collapse" style="<?php e($page->isHomePage(),'background-color:transparent;') ?>">
 	<ul class="nav navbar-nav navbar-right">
 	    <?php foreach($pages->visible() as $p): ?>
 	      <?php if($p->hasVisibleChildren() && $p->template() != 'posts'): ?>

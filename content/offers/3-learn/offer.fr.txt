@@ -1,21 +1,13 @@
-Title: Comprendre
+Title: Apprendre
 
 ----
 
-Text: 
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
-
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
-
-
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+Text: Il est donc nécessaire d’insuffler une culture d’apprentissage permanent dans les organisations, de les rendre ‘apprenantes’. Cela implique aussi de diffuser de nouvelles manières d’envisager le leadership, le management et le changement, à travers une distribution du pouvoir et de la prise de décision. Ce n’est pas chose facile et c’est un objectif toujours en mouvement. Il est impossible de répliquer des méthodes standardisées, tant les contextes diffèrent d’une organisation à l’autre. Mais on peut imaginer certaines étapes d’un parcours. D’abord, on peut développer la créativité et la collaboration d’une petite équipe d’acteurs du changement identifiés en amont, à travers des projets pratiques et structurants. Peu importe qu’on l’appelle ‘design thinking’ ou ‘holacracy’. L’objectif est de définir des espaces de liberté précis et de donner des moyens d’action. Cette équipe pourra ensuite être outillée pour devenir de réels catalyseurs dans le reste de l’entreprise, diffusant des nouvelles pratiques et questionnant les manière de faire établies (apprentissage pair-à-pair, mentorat, identification et valorisation des compétences, etc.). Enfin, la pérennisation de ces pratiques pourra se faire par la mise en place d’un ‘change lab’, afin d’impacter l’organisation durablement. Ce processus pourra être ponctué de d’événements intenses de créativité et de collaboration (‘sprints’, ‘camps’, etc.). L’objectif final reste que vos collaborateurs intègrent de réelles capacités de changement et deviennent de vrais supporters de la mission de l’organisation.
 
 ----
 
-Baseline: 
+Baseline: Comment faire de vos collaborateurs votre meilleur avantage compétitif ? Comment en faire des moteurs du développement de l’organisation ? Il est clair que de nouvelles compétences sont nécessaires pour prospérer dans une société ultra-connectée. Et celles-ci doivent se diffuser à tous les niveaux des organisation. Mais ces compétences ne sont pas forcément celles qu’on croit. Plus que des formations individuelles centrées sur la maîtrise des outils technologiques (qui vont et viennent), le plus important est d’apprendre à apprendre.
+
+----
+
+Elements: 
