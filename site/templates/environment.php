@@ -11,18 +11,20 @@
 				<div class="col-sm-4">
 					<a type="button" class="btn btn-default btn-lg btn-block mb" href="<?php echo $offer->url() ?>"><?php echo $offer->title() ?></a>
 
-					<?php $uid = $offer->uid() ?>
-					<?php $projects = page('projects')->children()->visible()->filterBy('offer','*=', $uid) ?>
-					<?php $puid = $page->uid(); ?>
-					<?php $project = $projects->filterBy('environment','*=',$puid)->first() ?>
-					<?php if ($project != '') : ?>
-						<?php snippet('project-item', array('project'=>$project)) ?>
+					<?php if ($site->projtoggle()== 'true') : ?>
+						<?php $uid = $offer->uid() ?>
+						<?php $projects = page('projects')->children()->visible()->filterBy('offer','*=', $uid) ?>
+						<?php $puid = $page->uid(); ?>
+						<?php $project = $projects->filterBy('environment','*=',$puid)->first() ?>
+						<?php if ($project != '') : ?>
+							<?php snippet('project-item', array('project'=>$project)) ?>
+						<?php endif ?>
 					<?php endif ?>
-
 
 				</div>
 			<?php endforeach ?>
 		</div>
 	</div>
+
 
 <?php snippet('footer') ?>

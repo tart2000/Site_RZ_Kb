@@ -37,26 +37,28 @@
 	<?php echo $page->text2()->kirbytext() ?>
 </div>
 
-
-<div class="container" role="main">
-	<?php snippet('projects') ?>
-</div> <!-- // container -->
+<?php if ($site->projtoggle()== 'true') : ?>
+	<div class="container" role="main">
+		<?php snippet('projects') ?>
+	</div> <!-- // container -->
+<?php endif ?>
 
 <div class="container">
 	<?php snippet('medium') ?>
 </div>
 
-<!-- contact -->
-<div id="contac">
-	<div class="container">
-		<div class="row">
-			<div class="center col-sm-8 col-sm-offset-2">
-				<h3><?php echo page('contact')->cta() ?></h3>
-				<a class="btn btn-default btn-lg btn-theme" href="<?php echo page('contact')->url() ?>" role="button"><?php echo l::get('contact') ?></a>
-			</div>
-		</div>
-	</div>
-</div>
-
+<?php echo snippet('contact') ?>
 
 <?php snippet('footer') ?>
+
+<script type="text/javascript">
+	var targetOffset = $("#blurb").offset().top;
+
+	var $w = $(window).scroll(function() {
+	    if ( $w.scrollTop() > targetOffset ) {   
+	        $('.navbar').css({"background-color":"white"});
+	    } else {
+	    	$('.navbar').css({"background-color":"transparent"});
+	    }
+	});
+</script>

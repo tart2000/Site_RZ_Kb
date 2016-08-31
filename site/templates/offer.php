@@ -1,15 +1,32 @@
 <?php snippet('header') ?>
 
-<div class="container text main" role="main">
+<div class="container text main mb" role="main">
 	<span class="offer"><?php echo $page->title()->html() ?></span>
-	<h3><?php echo $page->baseline() ?></h3>
-	<div class="sep"></div>
 	<?php echo $page->text()->kirbytext() ?>
 </div> <!-- // container -->
 
+<div class="container">
+		<div class="row">
+			<?php foreach (page('offers')->children() as $offer) : ?>
+				<!-- Pour savoir si c'est le bouton de la page -->
+				<?php 
+					$plouf = '';
+					if($offer->url()==$page->url()) {
+						$plouf = 'disabled';
+					} 
+				?>
+				<div class="col-sm-4">
+					<a type="button" class="btn btn-default btn-lg btn-block mb <?php echo $plouf ?>" href="<?php echo $offer->url() ?>">
+						<?php echo $offer->title() ?>
+					</a>
+				</div>
+			<?php endforeach ?>
+		</div>
+	</div>
+
 <?php if($page->elements() != '') :?>
-	<div class="container">
-		<div class="sep"></div>
+	<div class="container mb pb">
+		<h2>Services</h2>
 		<div class="row">
 			<?php foreach ($page->elements()->yaml() as $el) : ?>
 				<div class="col-sm-6 offer-items">
@@ -36,8 +53,20 @@
 	</div>
 <?php endif ?>
 
-<div class="container" role="main">
-	<?php snippet('projects') ?>
-</div> <!-- // container -->
+<?php if ($site->projtoggle()== 'true') : ?>
+	<div class="container" role="main">
+		<?php snippet('projects') ?>
+	</div> <!-- // container -->
+<?php endif ?>
+
+<?php echo snippet('contact') ?>
 
 <?php snippet('footer') ?>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script>
+<script type="text/javascript">
+	$(function() {
+	    $('.offer-items').matchHeight({byRow:false});
+	});
+</script>
+

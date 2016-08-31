@@ -9,6 +9,11 @@ fields:
   author:
     label: Author
     type:  text
+    width: 1/2
+  projtoggle: 
+    label: Projects visible?
+    type: toggle
+    width: 1/2
   description:
     label: Description
     type:  textarea

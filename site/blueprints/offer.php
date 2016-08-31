@@ -7,9 +7,6 @@ fields:
 	title:
 		label: Title
 		type:  text
-	baseline:
-		label: Baseline
-		type: textarea
 	text:
 		label: Text
 		type:  textarea

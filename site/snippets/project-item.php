@@ -6,7 +6,9 @@
 		<?php $logo = $project->logo_image()->toFile() ?>
 		<a href="<?php echo $project->url() ?>">
 			<div class="project-img" style="background-image:url('<?php echo $image->url() ?>')">
-				<img class="pro-logo" src="<?php echo $logo->url() ?>">
+				<?php if($project->logo_image() != '') : ?>
+					<img class="pro-logo" src="<?php echo $logo->url() ?>">
+				<?php endif ?>
 			</div>
 		</a>
 	<?php endif ?>
