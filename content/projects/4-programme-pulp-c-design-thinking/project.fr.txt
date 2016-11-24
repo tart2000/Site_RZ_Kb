@@ -1,0 +1,41 @@
+Title: PULP Design Thinking - BNC
+
+----
+
+Pro-image: image-pulp.jpg
+
+----
+
+Logo-image: logo-bnc.jpg
+
+----
+
+Text: 
+
+PULP est un programme de formation qui  se déploie en 10 demi-journées de formation,  assurant ainsi une continuité dans le développement des compétences et mixant théorie & cas pratiques sous forme de travaux dirigés. Des missions d’exploration données aux participants entre les rencontres permettent d'en apprendre encore plus sur un sujet précis et d'expérimenter dans la réalité organisationnelle de l’entreprise. Un retour d’expérience avec évaluation des acquis est enfin réalisé en groupe pour ancrer ce développement des compétences dans une dynamique collaborative.
+
+Les objectifs du programme pour les participants sont de:
+- Acquérir des compétences en Design Thinking suivant un contrat SMART (Simple, Mesurable, Acceptable, Réalisable, Temporellement défini) déterminé au cours de la formation;
+- Travailler collectivement de manière concrète sur la réalisation d’un projet pour l’entreprise en appliquant les acquis. Le projet ou les projets  seront définis en amont de la préparation de la formation.
+
+**Concrètement!**
+
+Le programme de formation de 10 séances et 10 missions est élaboré sur mesure pour s’adapter au mieux aux besoins spécifiques de l’entreprise (contexte global, réalité organisationnelle, projets priorisés,…), aux objectifs à atteindre en terme d’apprentissage (niveau des compétences en fin de formation, capacités spécifiques à renforcer plus précisément, …)  et la capacité des participants à consacrer du temps dans le programme (particulièrement en ce qui concerne les missions d’exploration et d’évaluation terrain). Une rencontre de début de mandat avec le gestionnaire de projet a donc pour objectif de valider ces différentes variables de travail. Également, de courtes entrevues individuelles (1/2 heure) seront à prévoir avec les participants à la formation pour évaluer leur niveau de compétences en Design Thinking et valider leurs attentes et leur engagement dans le programme (ouverture d’esprit, collaboration, disponibilité).
+
+Afin d’ancrer l’apprentissage dans le concret de l’entreprise, un projet principal ou plusieurs projets en cours seront choisis pour servir de fil rouge opérationnel et terrain pendant toute la formation. Ces projets seront définis par le gestionnaire du projet pendant la phase d’élaboration du programme de formation.
+
+Les séance de formation sont planifiées à l’avance suivant une cadence soutenue qui reflète la disponibilité des équipes mais qui reste mobilisatrice afin de maintenir une pression d’apprentissage apte à garder l’équipe active et en mouvement, surtout pendant les missions. Pour renforcer le soutien pendant ses missions, un coaching en option peut être prévu par les formateurs pour venir en soutien au chef de projet suivant une banque d’heures mises à disposition des participants. Un calendrier de formation devra être validé par le gestionnaire du projet pendant la phase d’élaboration du programme de formation. 
+
+Dépendamment des outils numériques disponibles dans l’entreprise, le matériel pédagogique (présentations théoriques, outils, cas, …) et les récoltes et travaux des participants devraient minimalement être mis à disposition du groupe de travail via un outil collaboratif en ligne. Les solutions adéquates seront validées avec le gestionnaire du projet en amont de l’élaboration du programme de formation et devront être fonctionnelles pour le début de la formation.
+
+----
+
+Offer: learn
+
+----
+
+Environment: entreprises
+
+----
+
+Baseline: Rien de mieux que faire (et se tromper!) pour apprendre

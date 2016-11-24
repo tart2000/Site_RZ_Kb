@@ -1,0 +1,50 @@
+Title: 8M - ICMTL
+
+----
+
+Year: 2013
+
+----
+
+Tags: city
+
+----
+
+Text: 
+
+Initié par Rhizome et deux des plus grands Cégeps du Québec, le Collège Dawson et le Cégep du Vieux-Montréal (combinant plus de 30 programmes de formation dans les industries culturelles et créatives), l'incubateur IC MTL est dédié aux entrepreneurs des industries créatives et est installé, dans sa version Beta, au coeur du vieux Montréal.
+L’initiative trouve sa prémisse dans la volonté d’améliorer l’accès à l’entrepreneuriat de la communauté artistique et créative montréalaise. Tablant sur la diversité et la concentration des talents que compte la Métropole, IC MTL propose une solution visant à renforcer le capital entrepreneurial d’un secteur à haute valeur ajoutée économique, inscrit dans l’ADN de Montréal.
+
+IC MTL s’intéresse aux modèles associés à l’expérience créative véhiculée à travers des déterminants comme la performance, l’objet, ou encore le numérique. Au croisement de l’art, du design et de la technologie, elle s’adresse donc aux prochaines étoiles montréalaises de la scène, de la littérature augmentée, du jeu vidéo, des métiers du design, de l’architecture, de la publicité, des métiers d’art, de la mode, des arts culinaires, de l’audiovisuel ou encore des nouveaux médias. Plus largement, elle veut également permettre aux créatifs de mieux vivre de leur talent, et stimuler l’innovation au sein des entreprises existantes en y renforçant la culture et les compétences entrepreneuriales.
+IC MTL sert une communauté d’aspirants entrepreneurs et intrapreneurs, en leur permettant de renforcer leurs aptitudes à générer de la valeur économique et sociale via leur pratique créative. Son objectif est de catalyser l’émergence, le développement, et le succès d’entreprises et organisations du secteur des industries culturelles et créatives. Dans cette optique, iC MTL réunit sous un même toit un campus entrepreneurial et un accélérateur d’entreprises .
+
+
+**Les programmes *8M* et *Scale Up* **
+
+Le campus entrepreneurial dont l’approche éducationnelle s’établit sur une méthodologie expérientielle novatrice, propose une gamme de programmes de type pré-incubation se concentrant sur la création de valeur et le démarrage d’un projet entrepreneurial. S’adressant autant aux jeunes diplômés qu’aux professionnels établis, le programme principal [8M], sanctionné par une formation créditée de type AEC, oﬀre la capacité aux créatifs de développer leurs compétences nécessaires aﬁn de maîtriser une démarche entrepreneuriale tout en proﬁtant de l’environnement et des réseaux de l’incubateur pour expérimenter leurs idées sur le terrain et bâtir leur projet entrepreneurial. 
+
+Du côté accélérateur d'entreprises administré par l'équipe de Rhizome, le programme [ScaleUP] d'une durée de 8 mois permet d'accompagner le développement des entreprises en résidence en leur offrant un environnement physique propice avec des espaces d'expérimentation, un accompagnement personnalisé aux 2 semaines, et l'accès à différents réseaux (ressources, experts, clients, investisseurs) en fonction des objectifs de croissance de l'entreprise tels que l'optimisation du modèle d'affaire, le développement de clientèles, l'accès à de nouveaux marchés ou l'accès à des investisseurs affiliés à l'accélérateur.
+
+**En savoir plus...**
+
+(link: http://icmtl.org/programme text: Les programmes IC MTL target: blank)
+
+----
+
+Offer: learn
+
+----
+
+Environment: ecosystemes
+
+----
+
+Pro-image: image-icmtl.jpg
+
+----
+
+Logo-image: logo-icmtl.jpg
+
+----
+
+Baseline: Accélérer les entrepreneurs créatifs

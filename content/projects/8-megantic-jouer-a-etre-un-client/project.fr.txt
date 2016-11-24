@@ -20,10 +20,24 @@ Afin de structurer les compétences en service à la clientèle des commerçants
 
 **La dynamique de jeu Time Line©**
 
-La dynamique de scénarisation Time Line© pour la partie ludifiée est inspirée du roman de Dickens : A Christmas Carol. Elle s’ouvre sur une mise en scène d’une situation catastrophique. Le joueur, qui incarne un journaliste, doit remonter une ligne du temps représentées par des documents d'archives (réseaux sociaux, sms, photos) qui afin de trouver ce qui a vraiment provoqué la catastrophe et de corriger l’histoire.  
-Il devra naviguer dans un montage de documents d’archives représentent les faits précédents la situation actuelle et devra investiguer pour corriger les erreurs passées et éviter la fin, à savoir un très mauvais service à la clientèle et un client mécontent !
+La dynamique de scénarisation Time Line© pour la partie ludifiée est inspirée du roman de Charles Dickens : A Christmas Carol. Elle s’ouvre sur une mise en scène d’une situation catastrophique. Le joueur, qui incarne un journaliste, doit remonter une ligne du temps représentée par des documents d'archives (réseaux sociaux, sms, photos, faits saillants,...) et investiguer afin de trouver ce qui a vraiment provoqué la catastrophe et de corriger l’histoire.  
+À chaque fois que le joueur aura modifié une case de la ligne de temps, celle-ci sera régénérée, proposant ainsi une nouvelle ligne de temps avec une conclusion légèrement différente jusqu'à ce que le joueur propose les bons choix pour résoudre le problème.
 
 La boucle de jeu  proposée est simple :
+(image: image-megantic2.jpg)
+
+Chaque problématique scénarisée sous forme de parcours est associée à un ensemble de fiches visant à mettre en lumière un contenu pédagogique. C’est de cette manière qu’un utilisateur pourra jouer au jeu d’abord et réviser les fiches associées ensuite (méthode ludique) ou encore préférer consulter directement les fiches (méthode linéaire) si il veut réviser en groupe ou pendant une discussion entre un gestionnaire et un employé.
+
+**Atteindre simplement des objectifs multiples**
+
+L'utilisation de la dynamique Time Line© pour ce projet est particulièrement intéressante pour: 
+- Offrir une solution web d'apprentissage accessible pour une large démographie d'utilisateurs et qui s’adresse tant aux gestionnaires qu’aux employés;
+- Mettre en place des mécaniques de jeu intuitives qui utilisent des leviers de psychologie inverse et des éléments de mise en contexte situationnel et immersif auxquels les joueurs peuvent s'identifier facilement;
+- Développer un engagement des utilisateurs qui encourage les bons comportements par l’émulation tout en livrant un contenu pédagogique;
+- Renforcer une sensibilisation à l’importance du service client et de la gestion RH pour les gestionnaires et employés de petits commerces.
+
+**En savoir plus...**
+(link: http://www.affordancestudio.com/fr/  target: blank)
 
 ----
 
