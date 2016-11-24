@@ -2,15 +2,18 @@ Title: À propos
 
 ----
 
-Text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+Text: 
 
-## Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a.
+Internet a bousculé tous les aspects de nos vies, de la manière dont on communique, consomme, apprend, rencontre, ou travaille. La révolution numérique qui y est associée, inquiète autant qu’elle fait rêver : elle a défait des empires et en a fait émerger de nouveaux. 
+Avec elle apparaissent de nouvelles pratiques, attentes et exigences en dehors des organisations (public, utilisateurs, collaborateurs), mais aussi en leur sein (employés, management). Ces transformations viennent s’ajouter encore aux pressions déjà subies par les organisations (environnementales, sociales, économiques). La plupart des règles qui régissaient notre société sont en train d’être ré-écrites. Une chose est claire, l'innovation n'est plus un luxe, mais une nécessité. Encore faut-il comprendre les changements en cours, être capable d'identifier des opportunités, puis de les mettre en action. 
 
-(image: about.jpg)
+Rhizome cherche à outiller les organisations, et les individus qui la composent, pour cultiver l’agilité et prospérer dans le monde de demain.
 
-### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+Nous pensons que les organisations qui réussissent partagent quelques caractéristiques : 
 
-#### Lorem Ipsum
-In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+- Créativité 
+- Collaboration 
+- Diversité 
+- Autonomisation et engagement 
+- Agilité
+- Expérimentation

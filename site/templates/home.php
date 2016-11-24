@@ -43,8 +43,12 @@
 	</div> <!-- // container -->
 <?php endif ?>
 
-<div class="container">
+<!-- <div class="container">
 	<?php snippet('medium') ?>
+</div> -->
+
+<div class="container">
+	<?php snippet('clients') ?>
 </div>
 
 <?php echo snippet('contact') ?>

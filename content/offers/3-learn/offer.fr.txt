@@ -2,12 +2,49 @@ Title: Apprendre
 
 ----
 
-Text: Il est donc nécessaire d’insuffler une culture d’apprentissage permanent dans les organisations, de les rendre ‘apprenantes’. Cela implique aussi de diffuser de nouvelles manières d’envisager le leadership, le management et le changement, à travers une distribution du pouvoir et de la prise de décision. Ce n’est pas chose facile et c’est un objectif toujours en mouvement. Il est impossible de répliquer des méthodes standardisées, tant les contextes diffèrent d’une organisation à l’autre. Mais on peut imaginer certaines étapes d’un parcours. D’abord, on peut développer la créativité et la collaboration d’une petite équipe d’acteurs du changement identifiés en amont, à travers des projets pratiques et structurants. Peu importe qu’on l’appelle ‘design thinking’ ou ‘holacracy’. L’objectif est de définir des espaces de liberté précis et de donner des moyens d’action. Cette équipe pourra ensuite être outillée pour devenir de réels catalyseurs dans le reste de l’entreprise, diffusant des nouvelles pratiques et questionnant les manière de faire établies (apprentissage pair-à-pair, mentorat, identification et valorisation des compétences, etc.). Enfin, la pérennisation de ces pratiques pourra se faire par la mise en place d’un ‘change lab’, afin d’impacter l’organisation durablement. Ce processus pourra être ponctué de d’événements intenses de créativité et de collaboration (‘sprints’, ‘camps’, etc.). L’objectif final reste que vos collaborateurs intègrent de réelles capacités de changement et deviennent de vrais supporters de la mission de l’organisation.
+Text: 
+
+Comment faire de vos collaborateurs votre meilleur avantage compétitif ? Comment en faire des moteurs du développement de l’organisation ? Il est clair que de nouvelles compétences sont nécessaires pour prospérer dans une société ultra-connectée. Et celles-ci doivent se diffuser à tous les niveaux des organisation. Mais ces compétences ne sont pas forcément celles qu’on croit. Plus que des formations individuelles centrées sur la maîtrise des outils technologiques (qui vont et viennent), le plus important est d’apprendre à apprendre.
+
+Il est donc nécessaire d’insuffler une culture d’apprentissage permanent dans les organisations, de les rendre ‘apprenantes’. Cela implique aussi de diffuser de nouvelles manières d’envisager le leadership, le management et le changement, à travers une distribution du pouvoir et de la prise de décision. Ce n’est pas chose facile et c’est un objectif toujours en mouvement. Il est impossible de répliquer des méthodes standardisées, tant les contextes diffèrent d’une organisation à l’autre. Mais on peut imaginer certaines étapes d’un parcours. D’abord, on peut développer la créativité et la collaboration d’une petite équipe d’acteurs du changement identifiés en amont, à travers des projets pratiques et structurants. Peu importe qu’on l’appelle ‘design thinking’ ou ‘holacracy’. L’objectif est de définir des espaces de liberté précis et de donner des moyens d’action. Cette équipe pourra ensuite être outillée pour devenir de réels catalyseurs dans le reste de l’entreprise, diffusant des nouvelles pratiques et questionnant les manière de faire établies (apprentissage pair-à-pair, mentorat, identification et valorisation des compétences, etc.). Enfin, la pérennisation de ces pratiques pourra se faire par la mise en place d’un ‘change lab’, afin d’impacter l’organisation durablement. Ce processus pourra être ponctué de d’événements intenses de créativité et de collaboration (‘sprints’, ‘camps’, etc.). L’objectif final reste que vos collaborateurs intègrent de réelles capacités de changement et deviennent de vrais supporters de la mission de l’organisation.
 
 ----
 
-Baseline: Comment faire de vos collaborateurs votre meilleur avantage compétitif ? Comment en faire des moteurs du développement de l’organisation ? Il est clair que de nouvelles compétences sont nécessaires pour prospérer dans une société ultra-connectée. Et celles-ci doivent se diffuser à tous les niveaux des organisation. Mais ces compétences ne sont pas forcément celles qu’on croit. Plus que des formations individuelles centrées sur la maîtrise des outils technologiques (qui vont et viennent), le plus important est d’apprendre à apprendre.
+Baseline: 
 
 ----
 
 Elements: 
+
+- 
+  title: Apprendre en écoutant
+  fa: user-plus
+  baseline: Formations courtes ad hoc
+  examples: >
+    Pensée Design, Innovation ouverte,
+    Parcours client, Transformation
+    numérique, etc.
+- 
+  title: Apprendre en vivant
+  fa: child
+  baseline: Rencontres inattendues
+  examples: Be Me ©
+- 
+  title: 'Apprendre en jouant : jeu sérieux'
+  fa: gamepad
+  baseline: >
+    Programmes de sensibilisation et
+    d’éducation
+  examples: Trivia © Time Line © Consortio ©
+- 
+  title: 'Apprendre par soi-même : programmes en ligne'
+  fa: laptop
+  baseline: ""
+  examples: >
+    Transformation numérique, pensée
+    design, etc.
+- 
+  title: 'Apprendre en faisant : programme PULP ©'
+  fa: wrench
+  baseline: Formations personnalisées
+  examples: 5 jours + missions et expérimentations

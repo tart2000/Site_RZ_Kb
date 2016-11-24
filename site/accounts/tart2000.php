@@ -7,8 +7,8 @@ password: >
 language: en
 role: admin
 history:
-  - home
+  - projects/changelab-cefrio
+  - offers/plan
+  - environments/entreprises
   - offers/learn
   - offers/make
-  - offers/plan
-  - environments/ecosystemes

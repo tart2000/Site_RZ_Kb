@@ -8,6 +8,9 @@ fields:
   title:
     label: Title
     type:  text
+  baseline: 
+    label: Baseline
+    type: text
   pro_image:
     label: Image du projet
     type: selector 

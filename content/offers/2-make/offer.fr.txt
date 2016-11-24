@@ -2,12 +2,48 @@ Title: Faire
 
 ----
 
-Text: Rhizome accompagne le développement de projets ambitieux, de l’idée à la mise en marché, en passant par la preuve de concept. Mais à chaque fois, il en s’agit pas de faire ‘à la place’, ou de ‘dire comment faire’ mais bien de ‘faire avec’. Le coeur de notre expertise est la mise en action des membres de l’organisation, à travers des incubateurs d’idée, des programmes d’intrapreneuriat ou des laboratoires de création. Un processus de conception va généralement inclure des séances de création participative impliquant toutes les parties prenantes du projet (collaborateurs / clients / utilisateurs / public) ainsi qu’un certain nombre de boucles de rétroaction (feedback).
+Text: 
+
+La production a été souvent reléguée au second plan, arrivant à la suite d’un processus de conception qui en a définit le périmètre précis. Cependant, l’accélération de l’évolution des technologies demande (et permet) une approche plus pratique et itérative. La capacité à prototyper et à expérimenter est devenu un facteur clé de différenciation pour les organisations. Mais cela passe aussi par un changement de culture : préférer un prototype à une présentation Powerpoint. De plus, nous sommes convaincus que ‘faire’ aide à penser et qu’il est nécessaire de ‘réconcilier la tête et la main’, comme le dit Richard Sennett.
+
+Rhizome accompagne le développement de projets ambitieux, de l’idée à la mise en marché, en passant par la preuve de concept et le prototypage. Mais à chaque fois, il en s’agit pas de faire ‘à la place’, ou de ‘dire comment faire’ mais bien de ‘faire avec’. Le coeur de notre expertise est la mise en action des membres de l’organisation, à travers des incubateurs d’idées, des programmes d’intrapreneuriat ou des laboratoires d'innovation. Un processus de conception va généralement inclure des séances de création participative impliquant toutes les parties prenantes du projet (collaborateurs / clients / utilisateurs / public) ainsi qu’un certain nombre de boucles de rétroaction (feedback).
 
 ----
 
-Baseline: La production a été souvent reléguée au second plan, à la l’issue d’un processus de conception en définissant le périmètre précis. Cependant, l’accélération de l’évolution des technologies demande (et permet) une approche plus pratique. La capacité à prototyper et à expérimenter est devenu un facteur clé de différenciation pour les organisations. Mais cela passe aussi par un changement de culture : préférer un prototype à une présentation Powerpoint. De plus, nous sommes convaincus que ‘faire’ aide à penser et qu’il est nécessaire de ‘réconcilier la tête et la main’, comme le dit Richard Sennett.
+Baseline: 
 
 ----
 
 Elements: 
+
+- 
+  title: "Leadership programme d'intrapreneuriat"
+  fa: trophy
+  baseline: Faire de ses employés des innovateurs
+  examples: Critic Clinics ©
+- 
+  title: 'Agilité : programme de connexion start-up'
+  fa: exchange
+  baseline: Agir comme une start-up
+  examples: >
+    Sélectionner, définir, tester,
+    lancer
+- 
+  title: "Accélération : programme d'excubation"
+  fa: rocket
+  baseline: >
+    Innover en dehors de la boîte...
+    littéralement !
+  examples: ""
+- 
+  title: 'Transition : change lab'
+  fa: undo
+  baseline: >
+    Réussir la transformation collective
+    et individuelle par la collaboration
+  examples: Transformation numérique
+- 
+  title: 'Innovation portée par les usagers : Living Lab'
+  fa: street-view
+  baseline: Innover avec ses parties prenantes
+  examples: ""

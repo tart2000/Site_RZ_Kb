@@ -4,16 +4,16 @@ Title: Écosystèmes
 
 Text: 
 
-Les écosystèmes sont devenus des moteurs indispensables du développement économique et social d’un territoire. Ils représentent le maillage dynamique, formel ou informel, qui relie entre eux les acteurs d’un domaine ou d’un secteur. Plus ils permettent d’échanges (connaissances, pratiques, services, etc.), plus ils génèrent de valeur. Ils sont à la fois plus définis et plus fluides que ce qu’on appelle des communautés. Ils peuvent être centrés autour d’un lieu défini, mais ils s’appuient souvent sur un réseau de lieux. Leur souplesse en fait des éléments clés pour la résilience d’un territoire. Pour autant, ces écosystèmes sont souvent délaissés par les acteurs territoriaux et même parfois par les organisations qui le constituent. 
+Les écosystèmes sont devenus des moteurs indispensables du développement économique et social. Ils représentent le maillage dynamique, formel ou informel, qui relie entre eux les acteurs d’un domaine ou d’un secteur. Plus ils permettent d’échanges (connaissances, pratiques, services, etc.), plus ils sont diversifiés, plus ils génèrent de valeur. Ils sont à la fois plus définis et plus fluides que ce qu’on appelle des communautés. Ils peuvent être centrés autour d’un lieu défini, mais ils s’appuient souvent sur un réseau de lieux. Leur souplesse en fait des éléments clés pour la résilience des organisations qui les composent. Pour autant, ces écosystèmes sont trop souvent délaissés et mésestimés par les acteurs territoriaux et les organisations qui le constituent. 
 
 La mise en place d’un écosystème productif nécessite de : 
 
-- Permettre aux acteurs différents niveaux d’implication 
+- Établir des règles de gouvernance et de prise de décision claires 
+- Attirer des acteurs hétérogènes 
+- Rendre possibles différents niveaux d’implication pour ces acteurs 
 - Mettre en place un cercle vertueux où l’implication de chaque partie prenante est valorisée 
-- Identifier et outiller les éléments leaders de la communauté 
+- Identifier et outiller les leaders 
 - Mettre en place des contextes (physiques et numériques) pour maximiser les échanges et la créativité de chacun des éléments 
 - Encourager et fluidifier le partage de connaissances et d’information 
-- Attirer des acteurs hétérogènes 
-- Établir des règles de gouvernance et de prise de décision claires 
 
 Rhizome participe activement à titre de partenaire stratégique et opérationnel au développement d’écosystèmes dédiés à l’innovation (incubateurs, accélérateurs, programmes d'entrepreneuriat, laboratoires de création, etc.). Nous incubons et gérons des projets structurants, activateurs de communautés, et créateurs de valeur pour l’écosystème.

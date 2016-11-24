@@ -1,0 +1,58 @@
+Title: ChangeLab - Cefrio
+
+----
+
+Pro-image: image-change-lab-cefrio.jpg
+
+----
+
+Logo-image: logo-change-lab-cefrio.jpg
+
+----
+
+Text: 
+
+Dans le cadre du programme PME 2.0 d'accompagnement des entreprises québécoises dans leur transformation numérique, le CEFRIO a mandaté notre équipe pour designer et déployer une nouvelle approche de gestion collaborative d"implantation de projets numériques auprès de quelques PME participantes au programme. Ainsi est né le Change LAB!
+Le Change Lab est une approche visant à conduire un projet dans une entreprise et coconstruire le changement avec la contribution des usagers de la technologie (soit les employés). Il mise sur la contribution des employés dans l’ensemble des étapes d’un projet technologique et favorise la collaboration et les communications ascendantes dans l’entreprise.
+
+
+**Qu'est-ce qu'un Change LAB?**
+
+L’approche du Change Lab intègre plusieurs principes importants associés au courant de la gestion participative.
+Elle tient compte du fait :
+- Que les organisations doivent exploiter les meilleures idées en circulation, peu importe leur provenance;
+- Qu’il est plus facile de réaliser un changement quand les acteurs qu’il concerne (comme les employés) mettent la main à la pâte pour le planifier;
+- Que les entreprises gagnent à sans cesse rechercher des moyens de perfectionner leurs produits, leurs services ou leurs processus;
+- Qu’il est plus productif de passer à l’action et de travailler en itération que de planifier et de terminer le développement de nouveaux produits, services ou processus;
+- Qu’il est important de rendre les équipes de travail autonomes et de les faire participer aux décisions.
+
+
+**Le Change LAB en action!**
+
+Dans le 1ère phase de PME 2.0, l'approche a été déployée dans plusieurs entreprises dont Perlimpinpin, une entreprise de fabrication et de distribution de vêtements pour enfants, qui souhaitait déployer sa stratégie de marketing électronique à long terme. 
+Le Change Lab s’est déroulé sur une période de huit mois, lors de laquelle différents ateliers d’une demi-journée et différentes missions ont été organisés. Parmi ces ateliers, des séances de co-création et d'expérimentation terrain avec des clients ont  réuni plus de 40 personnes en mode présentiel et de 2 000 en mode virtuel. Elle a débouché, en août 2015, sur la mise en marché de deux nouveaux produits concrets qui ont démontré depuis une très bonne réponse sur les marchés du fait d’avoir été créés d’une manière collaborative avec des consommateurs.
+
+La démarche de Change Lab a permis également au personnel participant d’acquérir les connaissances et les compétences dont il avait besoin pour contribuer à la réalisation du projet:
+- Sur le plan personnel, le Change Lab a par exemple donné aux employés la possibilité d’améliorer leur capacité à faire de l’écoute active, à accueillir constructivement les suggestions de leurs collègues ou des consommateurs.
+- Sur le plan professionnel, il a servi à accroître les aptitudes de certains participants à se servir de Facebook comme outil d’animation de communautés.
+- Sur le plan organisationnel, il a débouché sur l’acquisition des savoir-faire requis pour nouer des partenariats Internet fructueux et la participation des internautes dans des opérations de production participative (crowdsourcing).
+
+>*[…] Grâce au Change Lab, notre entreprise s’est rapprochée de notre client final et nous avons développé de nouvelles expertises à l’interne.
+>Danielle Déry, présidente, Perlimpinpin*
+
+**En savoir plus...**
+
+(link: http://www.pmenumerique.ca/en-images-des-pme-temoignent/perlimpinpin text: La vidéo du projet Perlimpinpin target: blank)
+(link: http://www.pmenumerique.ca/media/1240/cefrio_changelab_20-pages.pdf text: Le rapport CEFRIO sur les Change LAB target: blank)
+
+----
+
+Offer: make
+
+----
+
+Environment: entreprises
+
+----
+
+Baseline: Accompagner la transformation numérique

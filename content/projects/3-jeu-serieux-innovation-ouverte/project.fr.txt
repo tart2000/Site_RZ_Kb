@@ -1,0 +1,55 @@
+Title: ConsortIO© - TransformAction
+
+----
+
+Pro-image: image-jeu-io.jpg
+
+----
+
+Logo-image: logo-jeu-io.jpg
+
+----
+
+Text: 
+
+Dans le cadre du développement d'un programme d'accompagnement d'entreprises de l'agroalimentaire sur le thème de l'innovation ouverte, TransformAction, le créneau Accord en transformation alimentaire de la Montérégie, désirait repenser la manière dont ce genre d'interventions sont réalisées en entreprise. En partenariat avec le Ministère de l'Économie, de la Science et de l'Innovation (MESI), nous avons développé un programme intégrant une phase de formation via un jeu sérieux sur l'innovation ouverte (Consortio ©), une phase d'évaluation de la maturité en innovation ouverte via un outil numérique diffusable dans l'intégralité de l'entreprise et une phase d'implantation de projets via une approche collaborative Change LAB. Parlons donc en premier du jeu sérieux!
+
+**Pourquoi un jeu sérieux?**
+
+ Utiliser une méthodologie de jeu sérieux dans le cadre d'une formation en innovation ouverte était particulièrement intéressant pour:
+- Découvrir des leviers d'innovation ouverte tout en mettant en place en équipe un plan d'action structuré et transférable;
+- Livrer un apprentissage à travers une mise en situation représentant les réalités professionnelles des participants;
+- Animer une dynamique de dialogue et de collaboration entre les participants d'un même groupe;
+- Fluidifier la livraison des contenus sur un sujet complexe comme l'innovation ouverte.
+
+**Qu'est-ce que Consortio ©?**
+
+Le jeu a été développé dans un format d'atelier de 4 ou 7 heures intégrable facilement dans des programmes de formation en entreprise. Une séance se joue par tables de 4 à 6 personnes à partir d'une mise en situation qui représente la réalité professionnelle des participants. Chaque groupe incarne un consortium de partenaires qui doivent innover ensemble de manière ouverte, créant ainsi une compétition amicale entre les tables pour savoir qui va mettre en place la meilleure stratégie!
+La dynamique pédagogique du jeu alterne entre des phases de présentation de contenus théoriques et des phases des mises en action/négociation entre les joueurs par rapport à la problématique à résoudre. Chaque phase de mise en action est suivie par un retour entre les groupes pour discuter des choix de chaque groupe et valider les bons et les moins bons choix.
+
+**L'intégration du jeu dans une réalité opérationnelle**
+
+À la fin de l'atelier, un jeu de cartes reprenant tous les leviers d'innovation ouverte abordé pendant le jeu est remis à chaque participant. Ce jeu permet à chaque participant de continuer la conversation sur l'innovation ouverte et d'animer à son tour au sein de son équipe une réflexion sur les solutions à mettre en place par rapport à des enjeux ou projets de l'entreprise. Cette discussion collaborative qui dure au maximum 1 heure peut ainsi apporter rapidement une compréhension collective d'éléments très opérationnels actionnables à travers une feuille de route partagée par tous.
+Une fois la maturité 
+
+<iframe width="560" height="315"  src="https://www.youtube.com/embed/_5Mr6OqaGDY" frameborder="0" allowfullscreen></iframe>
+
+>*Je suis sortie ravie et très stimulée par la formation : Merci à l’équipe. Niveau dynamisme, les impacts ont été ressentis immédiatement… Ce qui s’en vient c’est l’application et l’utilisation! 
+>Julie Bréchet, Chargée de projets, H2j Conseil*
+
+**En savoir plus...**
+
+(link: http://www.pmenumerique.ca/en-images-des-pme-temoignent/perlimpinpin text: Les cartes du jeu target: blank)
+(link: http://jouezlejeu.ca/ text: La journée jeu sérieux de TransformAction  target: blank)
+
+----
+
+Offer: plan
+
+----
+
+Environment: entreprises
+
+----
+
+Baseline: Planifier, en jouant... sérieusement!

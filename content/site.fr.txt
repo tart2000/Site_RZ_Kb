@@ -22,27 +22,27 @@ Analytics: UA-XXXXX-X
 
 ----
 
-Fb: http://facebook.com
+Fb: 
 
 ----
 
-Tw: http://twitter.com
+Tw: 
 
 ----
 
-Ln: http://linkedin.com
+Ln: https://www.linkedin.com/company/9505851
 
 ----
 
-Mail: mail@mail.com
+Mail: info@rhizome-strategies.com
 
 ----
 
 Address: 
 
-309 rue St Nicolas
-H2V 1C7 Montréal
+409 rue St Nicolas #300
+H2Y 2P4 Montréal, QC
 
 ----
 
-Projtoggle: false
+Projtoggle: true

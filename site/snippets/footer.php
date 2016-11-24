@@ -59,6 +59,14 @@
     <?php echo js('assets/js/vendor/bootstrap.min.js'); ?>
     <?php echo js('assets/js/main.js'); ?>
 
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.0/jquery.matchHeight-min.js"></script>
+    <script type="text/javascript">
+		$(function() {
+		    $('.card-top').matchHeight();
+		});
+    </script>
+
+
     <?php if ($page->isHomePage()) : ?>
     	<?php echo js('assets/js/paper-full.min.js'); ?>
 	    <?php echo js('assets/js/network.js'); ?>

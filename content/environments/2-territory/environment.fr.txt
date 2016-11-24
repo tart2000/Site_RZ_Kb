@@ -4,14 +4,14 @@ Title: Territoires
 
 Text: 
 
-Dans un monde globalisé et ultra-connecté, les quartiers, les villes, et plus largement, les territoires, rayonnent bien au-delà de leurs frontières. Dans le même temps, cette mise en réseau internationale est accompagnée d’une forme d’érosion du tissu social local et rend les territoires vulnérables à l’impact de services numériques ‘innovants’ (par exemple, l’économie ‘à la demande’) qui se jouent des réglementations. Les temps politiques et médiatiques de plus en plus courts rendent difficiles la formulation d’une stratégie pertinente. Cependant, le numérique peut aussi permettre une relation plus directe et active entre les citoyens, les élus et les acteurs du territoire. Il peut être la source d’une qualité de vie renouvelée pour le plus grand nombre. 
+Dans un monde globalisé et ultra-connecté, les quartiers, les villes, et plus largement, les territoires, rayonnent bien au-delà de leurs frontières. Dans le même temps, cette mise en réseau internationale est accompagnée d’une forme d’érosion du tissu social local et rend les territoires vulnérables à l’impact de services numériques disruptifs (par exemple, l’économie ‘à la demande’) qui se jouent des réglementations. Les temps politiques et médiatiques de plus en plus courts rendent difficiles la formulation d’une stratégie pertinente. Cependant, le numérique peut aussi permettre une relation plus directe et active entre les citoyens, les élus et les acteurs du territoire (entreprises, OBNLs, etc.). Il peut être la source d’une qualité de vie renouvelée pour le plus grand nombre. 
 
 Cela nécessite de : 
 
-- Dépasser l’approche techno-centrique de la ville intelligente (Smart City) qui voit les citoyens comme de simples consommateurs de service ou des producteurs de données. 
-- Avoir une approche de développement intégrée qui prenne en compte autant les aspects économiques que sociaux.  
-- Mettre en place des processus de consultation citoyenne qui permettent une réelle contribution, qui favorisent la créativité et qui dépassent les réponses ‘attendues’.
-- Outiller les citoyens et les acteurs du territoire pour faire émerger des projets structurants créateurs de Commun et porteurs d’une nouvelle solidarité. 
-- Laisser une place à l’expérimentation (et donc, repenser certains modèles de financement). 
+- Dépasser l’approche techno-centrique de la ville intelligente (Smart City) qui voit les citoyens comme de simples consommateurs de service ou des producteurs de données
+- Avoir une approche de développement intégrée qui prenne en compte autant les aspects économiques que sociaux
+- Mettre en place des processus de consultation citoyenne qui permettent une réelle contribution, qui favorisent la créativité et qui dépassent les réponses ‘attendues'
+- Outiller les citoyens et les acteurs du territoire pour faire émerger des projets structurants créateurs de Commun et porteurs d’une nouvelle solidarité
+- Laisser une place à l’expérimentation (et donc, repenser certains modèles de financement)
 
 Rhizome accompagne des organisations publiques, parapubliques et organisations de développement économique et social dans leur planification stratégique, la création et la gestion de projets innovants.

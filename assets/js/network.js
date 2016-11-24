@@ -217,9 +217,9 @@ var radius = 8,
 
 $(document).ready(function () {
     var container = $('#network'),
-        overlay = container.find('.overlay'),
+        overlay = container.find('.container'),
         canvas = $('<canvas id="canvas" resize></canvas>').appendTo(container),
-        content_height = overlay.outerHeight(),
+        content_height = overlay.outerHeight()+150,
         window_height = $(window).outerHeight(),
         header_height = $('body > header').outerHeight(),
         network = new Network();

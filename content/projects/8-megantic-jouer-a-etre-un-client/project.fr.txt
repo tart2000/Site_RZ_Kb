@@ -1,0 +1,34 @@
+Title: Mégantic - Expérience client
+
+----
+
+Baseline: Se mettre dans la peau de son client
+
+----
+
+Pro-image: image-megantic.jpg
+
+----
+
+Logo-image: logo-commerce-megantic.jpg
+
+----
+
+Text: 
+
+Afin de structurer les compétences en service à la clientèle des commerçants de Lac Mégantic, l'association Commerce Mégantic recherchait un outil en ligne de formation et de sensibilisation à l’importance du recrutement et de la formation de la main d’œuvre pour tout ce qui a trait à fournir un service à la clientèle remarquable. En appliquant l'approche de jeu sérieux numérique Time Line©, nous avons développé, en partenariat avec Affordance Studio, un jeu sérieux permettant à des employés mais aussi à des gestionnaires de tester leurs connaissances sur le sujet à travers la résolution ludique de situations critiques mais réelles vécues par leurs clients. Dans le même temps, toujours à travers la même plateforme, le contenu théorique est disponible en tout temps sous un format plus linéaire pour permettre une révision ou un retour en équipe sur des points spécifiques.
+
+**La dynamique de jeu Time Line©**
+
+La dynamique de scénarisation Time Line© pour la partie ludifiée est inspirée du roman de Dickens : A Christmas Carol. Elle s’ouvre sur une mise en scène d’une situation catastrophique. Le joueur, qui incarne un journaliste, doit remonter une ligne du temps représentées par des documents d'archives (réseaux sociaux, sms, photos) qui afin de trouver ce qui a vraiment provoqué la catastrophe et de corriger l’histoire.  
+Il devra naviguer dans un montage de documents d’archives représentent les faits précédents la situation actuelle et devra investiguer pour corriger les erreurs passées et éviter la fin, à savoir un très mauvais service à la clientèle et un client mécontent !
+
+La boucle de jeu  proposée est simple :
+
+----
+
+Offer: learn
+
+----
+
+Environment: territory

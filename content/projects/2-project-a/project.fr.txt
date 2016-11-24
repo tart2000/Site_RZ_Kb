@@ -1,0 +1,54 @@
+Title: Impact 8 - L'Esplanade
+
+----
+
+Year: 2014
+
+----
+
+Tags: outdoor
+
+----
+
+Text: 
+
+Située au cœur du secteur Mile-Ex de Montréal, l’Esplanade est le premier espace collaboratif et accélérateur dédié à l’entrepreneuriat et à l’innovation sociale au Québec. Sa mission ? Rassembler une communauté ambitieuse d’entrepreneurs, d’organisations et de citoyens pour relever ensemble les défis sociaux, environnementaux et économiques et propulser de nouveaux modèles d'affaire aptes à maximiser l'impact que ces entrepreneurs sociaux auront sur la société de demain.
+
+Dans le cadre de ses programmes d'accompagnement, l'Esplanade a établi un partenariat avec Rhizome pour structurer un réseau de partenaires et animer leur programme d'accélération en innovation sociale.
+
+**Premiers partenaires et programme pilote **
+
+Fort d'un partenariat avec le Centre MaRS pour l’investissement d’impact  à Toronto et SVX, plateforme québécoise d'investissement à impact, un premier programme d'accélération, nommé Impact8 Québec, a été développé sur mesure pour les entreprises sociales et collectives générant un impact social et environnemental positif, et faisant preuve d’une viabilité économique.
+L'objectif du programme est d'accélérer la croissance d'entreprises sociales en démarrage qui ont obtenu la validation de leurs produits ou services, et qui cherchent des investissements pour financer leur développement et augmenter leur impact.
+ 
+La première cohorte d’Impact8 lancée entre septembre et novembre 2015 a accompagné huit entreprises à travers des ateliers ciblés de coaching et du mentorat, des services-conseils personnalisés, de l’apprentissage par les pairs, des opportunités de réseautage, une plateforme de mentorat ainsi que des sessions de présentations de leur plan d’affaires. Les premiers diplômés ont été admissibles à devenir émetteurs sur la plateforme en ligne SVX.  De plus, un des diplômés, désigné par ses pairs, a bénéficié d’une subvention de fonctionnement du Centre MaRS pour l’investissement d’impact.
+
+
+**Un nouveau programme dans une version adjuvée **
+
+Basée sur les constatations du premier programme pilote, une nouvelle mouture d'accompagnement a été développée et lancée en novembre 2016. Plus long dans l'accompagnement (6 mois au lieu de 2) et plus complet dans les sujets abordés, ce programme d'accélération, rebaptisé Impact 8V2,  regroupera à nouveau 6 entrepreneurs à impact pour les accompagner dans le passage à l'échelle de leur modèle d'affaire et leur recherche de financement.
+
+**En savoir plus...**
+
+(link: http://esplanademtl.org/accelerator/impact8/ text: La programme pilote Impact 8 target: blank)
+(link: https://svx.ca/fr text: SVX, plateforme d'investissement à impact target: blank)
+
+----
+
+Offer: make
+
+----
+
+Environment: entreprises, ecosystemes
+
+----
+
+Pro-image: image-esplanade.jpg
+
+----
+
+Logo-image: logo-esplanade-long.jpg
+
+----
+
+Baseline: Maximiser l'impact des entrepreneurs sociaux

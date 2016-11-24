@@ -4,10 +4,15 @@ Title: Entreprises
 
 Text: 
 
-Les défis auxquels les entreprises doivent faire face n’ont jamais été aussi grands. Leur existence même est menacée de l’extérieur (évolution des utilisateurs, arrivée de nouveaux acteurs, avancées technologiques de plus en plus rapides, érosion de la chaîne de valeur) et de l’intérieur (désengagement des employés, attraction et rétention de talents de plus en plus difficiles). Cependant, de nouveaux modèles, issus du monde numérique, émergent et prospèrent (mouvement maker, open-source, consommation collaborative, innovation sociale, etc.), offrant un aperçu de ce que pourront être les organisations de demain. Rhizome travaille au quotidien, main dans la main, avec ces acteurs émergents, afin de pouvoir en diffuser les bonnes pratiques dans les organisations. Ces bonnes pratiques vont plus loin que l’achat d’une imprimante 3D ou de l’ouverture d’un ‘lab’ : elles passent par une évolution culturelle. Et la manière de les mettre en pratique est propre à chaque organisation : impossible de passer par une méthode standardisée. 
+Les défis auxquels les entreprises doivent faire face n’ont jamais été aussi grands. Leur existence même est menacée de l’extérieur (évolution des attentes des utilisateurs, arrivée de nouveaux acteurs, avancées technologiques de plus en plus rapides, érosion de la chaîne de valeur) et de l’intérieur (isolement par silos, fracture numérique, désengagement des employés, attraction et rétention de talents de plus en plus difficiles). Cependant, de nouveaux modèles, dont beaucoup sont issus du monde numérique, émergent et prospèrent : mouvement maker, open-source, économie du partage, innovation sociale, innovation ouverte, innovation frugale, etc. Ces manières de faire des affaires, de s'organiser et de produire offrent un aperçu de ce que devraient être les organisations de demain. En pratique, Rhizome travaille au quotidien, main dans la main, avec ces acteurs émergents, afin de pouvoir en diffuser les bonnes pratiques auprès des entreprises. 
 
-En pratique, Rhizome aide les entreprises à :
+Parmi ces bonnes pratiques, on retrouve le fait de : 
 
-- Mieux définir leur mission et leur proposition de valeur 
-- Profiter de la puissance de penser et de faire des individus avec lesquels elle interagit 
-- Anticiper les changements en cours et en profiter
+- Miser sur une architecture d'entreprise ouverte et collaborative 
+- Mettre en place un contexte favorisant l'engagement et l'autonomie
+- Penser la valeur créée par l'entreprise également en terme de valeur de connaissances acquises et de valeur sociale
+- Passer par une évolution culturelle non techno-centrée (au-delà de l'achat d'une imprimante 3D ou de l'ouverture d'un 'lab')
+- Se mettre dans une dynamique d'expérimentation et d'apprentissage 
+- Mettre en pratique une méthode propre à son organisation, dépassant les méthodes standardisées
+
+Nous aidons les entreprises à transformer leur culture, à profiter de la puissance de penser et de faire des individus avec lesquels elle interagit et à anticiper les changements en cours pour en profiter.

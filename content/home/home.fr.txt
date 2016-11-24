@@ -4,7 +4,7 @@ Title: Home
 
 Text: 
 
-Nous sommes une équipe multidisciplinaires pratiquant l’innovation par rhizome.
+Nous sommes une équipe multidisciplinaire pratiquant l’innovation par rhizome.
 
 **RHIZOME /ˈrīˌzōm/**
 
@@ -12,16 +12,7 @@ Nous sommes une équipe multidisciplinaires pratiquant l’innovation par rhizom
 
 ----
 
-Blurb: 
-
-Caractéristiques du Rhizome : 
-
-- Plusieurs éléments connectés entre eux (réseau)  
-- Pas de centre (communication décentralisée) 
-- Croissance horizontale (pas de hiérarchie) 
-- Auto-organisation à partir de règles élémentaires simples 
-- Comportements émergents 
-- Résilience
+Blurb: Rhizome est une agence de conseil en innovation qui travaille avec des start-ups, des entreprises établies, des institutions publiques, des organisations para-publiques et des organismes sans but lucratif. Nous accompagnons ces organisation dans la croissance de leur écosystème d'innovation et dans leur transformation afin de maximiser l'impact sur leurs employés, leurs clients, leurs partenaires et leurs marchés.  L'objectif est de prospérer dans le monde de demain. Le moyen est de cultiver l’agilité, l'engagement et l'ouverture.
 
 ----
 
@@ -31,14 +22,6 @@ Medium: https://salon.thefamily.co/feed
 
 Text2: 
 
-Internet a bousculé tous les aspects de nos vies, de la manière dont on communique, consomme, apprend, rencontre, ou travaille. La révolution numérique qui y est associée, inquiète autant qu’elle fait rêver : elle a défait des empires et en a fait émerger de nouveaux.
-Avec elle apparaissent de nouvelles pratiques, attentes et exigences en dehors des organisations (public, utilisateurs, collaborateurs), mais aussi en leur sein (employés, management). Ces transformations viennent s’ajouter encore aux pressions déjà subies par les organisations (environnementales, sociales, économiques). La plupart des règles qui régissaient notre société sont en train d’être ré-écrites. Une chose est claire : c’est un aller simple. Mais dans quelle direction ? Rhizome cherche à outiller les organisations, et les individus qui la composent, pour cultiver l’agilité et prospérer dans le monde de demain.
+Nous pouvons vous aider à préciser votre stratégie, à développer une culture d’engagement dans votre organisation, à mettre en place des contextes supportant l’innovation, à mener à bien des projets structurants  et à faire de vos collaborateurs votre meilleur atout. À la différence de la plupart des agences de conseil, nous n’appliquons pas de méthode standardisée, nous ne vous disons pas comment faire, ni ne faisons pour vous. Nous faisons avec vous.
 
-Nous pensons que les caractéristiques des organisations qui réussissent sont : 
-
-- Créativité 
-- Collaboration 
-- Diversité 
-- Autonomisation et engagement 
-- Agilité
-- Expérimentation
+(link: http://rz.tart2000.com/about text: En savoir plus)

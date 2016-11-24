@@ -55,7 +55,6 @@ a:hover {
 }
 .navbar-collapse {
   z-index: 10;
-  background-color: white !important;
 }
 .navbar-right {
   background-color: transparent;
@@ -114,6 +113,12 @@ a:hover {
 	.lang {
 		float: right;
 	}
+  .navbar-collapse {
+    background-color: white !important;
+  }
+  #navbar {
+    background-color: white;
+  }
 }
 
 /* Text blocks */
@@ -130,7 +135,7 @@ a:hover {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    min-width: 100%;
     z-index: 2;
     margin-top: 120px;
     margin-bottom: 120px;
@@ -144,11 +149,14 @@ a:hover {
 }
 @media (max-width: 768px) {
 	.overlay .container li  {
-		font-size: 45px;
+		font-size: 35px;
     margin-left: -50px;
 	}
   .offer {
     font-size: 45px;
+  }
+  #network .overlay {
+    margin-top: 100px;
   }
 }
 .overlay .container li a {
@@ -307,9 +315,30 @@ a:hover {
 .footer .fa-circle {
   color: black;
 }
+.card-top {
+  margin-bottom: 15px;
+}
 
-
-
+.client {
+  padding: 40px;
+}
+.client-logo {
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(100%); 
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(100%); 
+  -o-transition: .5s ease-in-out;
+  opacity: 0.8;
+}
+.client-logo:hover {
+  -webkit-filter: grayscale(0%);
+  -webkit-transition: .5s ease-in-out;
+  -moz-filter: grayscale(0%);
+  -moz-transition: .5s ease-in-out;
+  -o-filter: grayscale(0%);
+  -o-transition: .5s ease-in-out;
+}
 
 
 

@@ -4,34 +4,46 @@ Title: Planifier
 
 Text: 
 
-Rhizome vous aide à toutes les étapes précédant la mise en action. Notre équipe de recherche est en mesure de produire rapidement des rapports de veille, un état des lieux, une cartographie des tendances ou des recommandations stratégiques. 
-Nous pouvons aussi mettre en place des interventions de co-création pour vous aider à élaborer une vision commune au sein d’une équipe.
+Tout commence par une mission claire (*purpose*). À partir de cette mission peut se décliner une stratégie, qui prendra ensuite la forme d’une planification opérationnelle. La mission offre une vision à long terme alors que la planification présente des actions à réaliser à court terme. Pour être en mesure de développer des projets ambitieux dans un monde de plus en plus complexe et changeant, cette planification doit se faire de la manière la plus agile possible. Cela nécessite aussi de suivre en permanence les évolutions du secteur pour y être réactifs. 
+
+Rhizome vous aide à toutes les étapes précédant la mise en action. Notre équipe de recherche est en mesure de produire rapidement des rapports de veille, un état des lieux, une cartographie des tendances ou des recommandations stratégiques. Pour être la plus pertinente possible, cette planification doit s'appuyer sur une connaissance fine des bénéficiaires finaux (usagers, utilisateurs, public, etc.). Pour cela, nous utilisons des méthodologies d'observation, d'entretiens ou de participation. Nous pouvons aussi mettre en place des interventions de co-création pour vous aider à élaborer une vision commune au sein d’une équipe.
 
 ----
 
-Baseline: Rien n’est plus important que d’avoir une mission claire (purpose). À partir de cette mission peut se décliner une stratégie, qui prendra ensuite la forme d’une planification opérationnelle. La mission offre une vision à long terme alors que la planification présente des actions à réaliser à court terme. Pour être en mesure de développer des projets ambitieux dans un monde de plus en plus complexe et changeant, cette planification doit se faire de la manière la plus agile possible. Cela nécessite aussi de suivre en permanence les évolutions du secteur pour y être réactifs.
+Baseline: 
 
 ----
 
 Elements: 
 
 - 
-  title: Offre
+  title: "Modélisation d'affaire"
   fa: gift
   baseline: B2B ou B2C
-  examples: Produit / service
+  examples: Développement de produit / service
 - 
   title: Expérience client
   fa: users
   baseline: Parcours client et expérience
   examples: 'Interface avec marque / offre - Supports numériques / espaces physiques'
 - 
-  title: Marque
+  title: Marketing immersif
   fa: flag
-  baseline: Positionnement et image
-  examples: 'Création / gestion - Identité visuelle et communication'
+  baseline: >
+    Positionnement et approfondissement
+    marché
+  examples: >
+    Recherche ethnographique et intégration
+    des usagers
 - 
-  title: Process
+  title: "Architecture d'entreprise"
   fa: cogs
   baseline: 'Transformation & évolution'
   examples: 'Productivité & efficacité - RH / compétences - Changement de culture'
+- 
+  title: Vision stratégique
+  fa: eye
+  baseline: Approche cross-disciplinaire
+  examples: >
+    Modèle d’affaire, stratégie
+    transversale et objectifs fondamentaux

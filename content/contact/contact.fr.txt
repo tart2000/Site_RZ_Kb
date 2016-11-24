@@ -5,7 +5,7 @@ Title: Contact
 Text: 
 
 Nous sommes prêts à vous recevoir dans les plus brefs délais ! 
-Appelez nous ou utilisez la fiche c-dessous.
+Appelez-nous ou utilisez la fiche ci-dessous.
 
 ----
 
@@ -16,11 +16,8 @@ Cta: Prêt à faire le grand saut ?
 Infos: 
 
 ###Pour nous voir :
-409 rue St Nicholas 
-H3V B4N Montréal QC
+409 rue St Nicolas 
+ Montréal (QC), H3V B4N
 
 ###Pour nous écrire :
-ds@rhizome-strategies.com 
-Rhizome Strategies 
-rue Lafontaine 
-bla bla
+info@rhizome-strategies.com
