@@ -10,6 +10,24 @@
 var $ = $ || jQuery,
     OK = OK || {};
 
+var radius = 8,
+    max_length = 200,
+    node_count = 60,
+    offset = 20,
+    nodes = [],
+    node_layer,
+    grey = '#efefef', // le gris de départ 
+    colorRatio = 10, // le nombre de fois où le gris sort par rapport aux autres couleurs
+    // node_style = {
+    //     fillColor: randomHex()
+    // },
+    edge_style = {
+        strokeColor: '#e7e7e7',
+        strokeWidth: 1.5
+    },
+    edges = [],
+    edge_layer;
+
 
 function Network() {
 
@@ -98,7 +116,9 @@ function Node() {
             this.location = new Point(x, y);
         }
 
-        this.path.style = node_style;
+        this.path.style = {
+            fillColor: theColor()
+        } // now with random color (orginal was #efefef)
 
         // Create edges to every other node
         for (i = 0; i < nodes.length; i += 1) {
@@ -191,6 +211,20 @@ function Node() {
     };
 };
 
+function randomHex() {
+    return '#'+('00000'+(Math.random()*16777216<<0).toString(16)).substr(-6);
+}
+
+function theColor() {
+    var myNum = Math.floor(Math.random() * colorRatio);
+    console.log(myNum);
+    if (myNum == 0) {
+        return randomHex();
+    } else {
+        return grey;
+    };
+}
+
 var random_int = function (min, max) {
     return Math.floor(Math.random() * (max - min + 1) + min);
 };
@@ -198,22 +232,6 @@ var random_int = function (min, max) {
 var distance = function (x1, y1, x2, y2) {
     return Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
 };
-
-var radius = 8,
-    max_length = 200,
-    node_count = 60,
-    offset = 20,
-    nodes = [],
-    node_layer,
-    node_style = {
-        fillColor: '#e7e7e7'
-    },
-    edge_style = {
-        strokeColor: '#e7e7e7',
-        strokeWidth: 1.5
-    },
-    edges = [],
-    edge_layer;
 
 $(document).ready(function () {
     var container = $('#network'),
@@ -236,7 +254,6 @@ $(document).ready(function () {
     }
 
     network.init();
-
 
     container.click(function (e) {
         network.add_node(e.clientX, e.clientY);
