@@ -19,14 +19,13 @@
 					</div>
 				</div>
 			</div>
+			<div class="col-md-12" id="footer-temp">
+				<em>Contact: info@rhizome-strategies.com / 514 431 3612</em><br><em>Rhizome is taking root</em>
+			</div>
 		</div>
 	</div>
 </div>
 
-<div id="footer-temp">
-	<div class="container">
-		<em>Contact: info@rhizome-strategies.com / 514 431 3612</em><br><em>Site en construction</em>
-	</div>
-</div>
+
 
 <?php snippet('footer') ?>
