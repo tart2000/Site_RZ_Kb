@@ -13,17 +13,29 @@
 					<?php else : ?>
 						<?php $image = '' ?>
 					<?php endif ?>
-					<img src="<?php echo $image->url() ?>" class="img-responsive mt">
+					<img src="<?php echo $image->url() ?>" class="img-responsive bmt">
 				
 					<?php if ($page->hasDocuments()) : ?>
-			          <?php foreach ($page->documents() as $doc) : ?>
-			            <a href="<?php echo $doc->url() ?>" download>
-			              <?php echo $doc->filename() ?> - (<?php echo $doc->niceSize() ?>) <i class="fa fa-download"></i>
-			            </a><br>
-			          <?php endforeach ?>
+						<h3><?php echo l::get('dl'); ?></h3>
+				        <?php foreach ($page->documents() as $doc) : ?>
+				            <a href="<?php echo $doc->url() ?>" download>
+				            	<?php echo $doc->filename() ?> - (<?php echo $doc->niceSize() ?>) <i class="fa fa-download"></i>
+				            </a><br>
+				        <?php endforeach ?>
 			        <?php endif ?>
 
-				</div>
+			        <?php if ($page->partner() != '') : ?>
+			        	<h3><?php echo l::get('partners'); ?></h3>
+			        	<ul>
+					        <?php foreach ($page->partner()->yaml() as $par) : ?>
+					        	<li><a href="<?php echo $par['link'] ?>" target="_blank">
+						        	<?php echo $par['name'] ?>
+						        </a></li>
+						    <?php endforeach ?>
+						</ul>
+					<?php endif ?>
+
+				</div><!-- fin colonne méta -->
 
 				<div class="col-sm-8">
 					<h1><?php echo $page->title()->html() ?></h1>

@@ -56,3 +56,14 @@ Environment: entreprises
 ----
 
 Baseline: Accompagner la transformation numérique
+
+----
+
+Partner: 
+
+- 
+  name: Cefrio
+  link: http://cefrio.com
+- 
+  name: Super partner
+  link: http://google.com

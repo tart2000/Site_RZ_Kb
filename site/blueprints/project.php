@@ -44,4 +44,15 @@ fields:
       template: environment
     columns: 1
     width: 1/2
-
+  partner: 
+    label: Partners 
+    type: structure
+    entry: >
+      {{name}}
+    fields: 
+      name:
+        label: Name
+        type: text 
+      link: 
+        label: Link
+        type: URL

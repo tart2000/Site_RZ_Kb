@@ -9,5 +9,7 @@ l::set('previous', 'Previous');
 l::set('next','Next');
 l::set('name','Name');
 l::set('mail','Email');
+l::set('dl','Downloads');
+l::set('partners','Partners');
 
 ?>

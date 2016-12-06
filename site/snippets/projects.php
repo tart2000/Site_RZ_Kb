@@ -24,7 +24,7 @@
 	
 
 	<?php foreach($prjcts as $project): ?>
-		<div class="col-sm-4">
+		<div class="col-sm-4 mb">
 			<?php echo snippet('project-item', array('project'=>$project)) ?>
 		</div>
 	<?php endforeach ?>
